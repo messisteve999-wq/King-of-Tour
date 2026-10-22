@@ -1,0 +1,12 @@
+# Godot generated
+.godot/
+.import/
+export.cfg
+export_presets.cfg.tmp
+*.translation
+
+# Builds and local files
+build/
+*.apk
+*.aab
+*.keystore
